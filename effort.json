@@ -1,0 +1,30 @@
+{
+  "scope": "Disclosure, not a complete cost accounting",
+  "providers": [
+    "Anthropic",
+    "OpenAI"
+  ],
+  "stages": [
+    {
+      "role": "initial review",
+      "provider": "Anthropic"
+    },
+    {
+      "role": "blind recheck",
+      "provider": "OpenAI"
+    },
+    {
+      "role": "informed critic",
+      "provider": "OpenAI"
+    },
+    {
+      "role": "informed release preparation",
+      "provider": "OpenAI"
+    }
+  ],
+  "tokens": null,
+  "active_model_minutes": null,
+  "models": null,
+  "measurement_status": "No complete reconciled per-stage measurement is available in this candidate; unknown is not zero. No totals are asserted.",
+  "fresh_context_P2_performed": false
+}

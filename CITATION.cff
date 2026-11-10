@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Unreleased candidate. Cite the original paper separately; no release DOI is assigned."
+title: "Scoped check of arXiv:2607.13009v1"
+version: 0.1.0-rc2
+type: software
+authors:
+  - name: Second Derivation
+license: BSD-3-Clause
+references:
+  - type: article
+    title: "Model-Independent Indication for a Localized Anomaly in the Late-Time Expansion History"
+    doi: 10.48550/arXiv.2607.13009
+    url: https://arxiv.org/abs/2607.13009v1
+    authors:
+      - family-names: Gupta Choudhury
+        given-names: S.
+      - family-names: Mukherjee
+        given-names: P.
+      - family-names: Di Valentino
+        given-names: E.
+      - family-names: Sen
+        given-names: A. A.

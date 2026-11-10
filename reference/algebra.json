@@ -1,0 +1,17 @@
+{
+  "claim": "A1",
+  "checks": {
+    "distance_pressure_identity": true,
+    "LCDM_pressure": true,
+    "matter_pressure": true,
+    "deSitter_pressure": true,
+    "NEC_identity": true,
+    "positive_NEC_control": true,
+    "negative_NEC_control": true,
+    "positive_pressure_control": true
+  },
+  "passed": true,
+  "pressure": "(-2*(z + 1)*Derivative(D(z), (z, 2))/3 - Derivative(D(z), z))/Derivative(D(z), z)**3",
+  "NEC": "-2*(z + 1)*Derivative(D(z), (z, 2))/(3*Derivative(D(z), z)**3)",
+  "LCDM_pressure": "Omega_m - 1"
+}
