@@ -1,6 +1,6 @@
 # Model-Independent Indication for a Localized Anomaly in the Late-Time Expansion History
 
-[2607.13009v1](https://arxiv.org/abs/2607.13009v1) · Review 0.2.0-rc2
+[2607.13009v1](https://arxiv.org/abs/2607.13009v1) · Review 0.2.0-rc3
 
 **Partly reproduced.** Exact pressure, distance and NEC identities reproduce; saved numerical agreement is conditional on our implementation.
 
@@ -25,7 +25,7 @@ Not checked: headline significance and location; H0 and h\*r\_d numerical fideli
 
 Prepared with AI assistance. Historical Claude first pass and Codex independent review/critique remain distinct; this assembly reads saved evidence and is neither blind B nor new P2. No scientific code was run in this assembly. Before the replay command below, extract legacy-original.zip into a new directory and read its README.md and requirements.txt for installation, dependency, data and scope instructions.
 
-Tools: Claude (historical A); Codex (historical B/C and current informed assembly). Human involvement: Owner selected preparation scope; no publication decision is recorded for this batch..
+Tools: Claude (historical A); Codex (historical B/C and current informed assembly). Human involvement: Owner selected the preparation scope and approved the predecessor release published on 10 November 2026; the owner approved publication of this editorial revision on 11 November 2026.
 
 ## Replay
 
